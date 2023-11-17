@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "57444603-6a5a-4943-a45c-096d1194ff44",
+      "A2": "UsrRealtyFreedomUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "a3936422-c082-4d12-82b5-8a8391985e7b",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "aa44c617-b59f-4bda-a3a7-29f4eb12c3ba",
+            "PageSchemaUId": "0eed4ada-56b7-47a9-aa5c-cc46e7b73351",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

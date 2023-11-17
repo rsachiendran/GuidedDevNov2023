@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty Freedom UI form page" />
+			<Item Name="LocalizableStrings.addRecord_220e8of_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_s6rn445_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_nlvsytk_caption.Value" Value="Push!" />
+		</Items>
+	</Group>
+</Resources>
