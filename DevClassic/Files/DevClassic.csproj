@@ -269,13 +269,23 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="Finesse">
-			<HintPath>$(RelativePkgFolderPath)/Finesse/$(StandalonePackageAssemblyPath)/Finesse.dll</HintPath>
+		<Reference Include="CSP">
+			<HintPath>$(RelativePkgFolderPath)/CSP/$(StandalonePackageAssemblyPath)/CSP.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="OpenIdAuth">
-			<HintPath>$(RelativePkgFolderPath)/OpenIdAuth/$(StandalonePackageAssemblyPath)/OpenIdAuth.dll</HintPath>
+		<Reference Include="MLProcessDesigner">
+			<HintPath>$(RelativePkgFolderPath)/MLProcessDesigner/$(StandalonePackageAssemblyPath)/MLProcessDesigner.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtUISwitcher">
+			<HintPath>$(RelativePkgFolderPath)/CrtUISwitcher/$(StandalonePackageAssemblyPath)/CrtUISwitcher.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="SsoSettings">
+			<HintPath>$(RelativePkgFolderPath)/SsoSettings/$(StandalonePackageAssemblyPath)/SsoSettings.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -289,23 +299,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CSP">
-			<HintPath>$(RelativePkgFolderPath)/CSP/$(StandalonePackageAssemblyPath)/CSP.dll</HintPath>
+		<Reference Include="Finesse">
+			<HintPath>$(RelativePkgFolderPath)/Finesse/$(StandalonePackageAssemblyPath)/Finesse.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="MLProcessDesigner">
-			<HintPath>$(RelativePkgFolderPath)/MLProcessDesigner/$(StandalonePackageAssemblyPath)/MLProcessDesigner.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="SsoSettings">
-			<HintPath>$(RelativePkgFolderPath)/SsoSettings/$(StandalonePackageAssemblyPath)/SsoSettings.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtUISwitcher">
-			<HintPath>$(RelativePkgFolderPath)/CrtUISwitcher/$(StandalonePackageAssemblyPath)/CrtUISwitcher.dll</HintPath>
+		<Reference Include="OpenIdAuth">
+			<HintPath>$(RelativePkgFolderPath)/OpenIdAuth/$(StandalonePackageAssemblyPath)/OpenIdAuth.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
