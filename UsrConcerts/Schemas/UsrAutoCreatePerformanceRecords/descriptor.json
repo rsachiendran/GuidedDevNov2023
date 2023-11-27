@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e254d9ec-b4cb-4603-8724-de66ca0f9eaa",
+    "Name": "UsrAutoCreatePerformanceRecords",
+    "ModifiedOnUtc": "\/Date(1701089793000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Auto create performance records",
+    "DependsOn": []
+  }
+}

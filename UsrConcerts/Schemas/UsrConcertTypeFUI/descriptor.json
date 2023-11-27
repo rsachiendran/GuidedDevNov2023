@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0c558fd-5886-4d20-9ac5-e21c89e3b0da",
+    "Name": "UsrConcertTypeFUI",
+    "ModifiedOnUtc": "\/Date(1701065112000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Concert Type FUI",
+    "DependsOn": []
+  }
+}

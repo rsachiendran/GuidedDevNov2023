@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "303d126c-9fbb-4390-b41e-c7c1112f5267",
+    "Name": "UsrConcerts_Detail",
+    "ModifiedOnUtc": "\/Date(1701063450000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Concerts detail",
+    "DependsOn": []
+  }
+}

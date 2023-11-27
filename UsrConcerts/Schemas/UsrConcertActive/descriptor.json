@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a62bdeff-d46c-45c9-8413-280aed3f2cbd",
+    "Name": "UsrConcertActive",
+    "ModifiedOnUtc": "\/Date(1701065116000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Concert Active",
+    "DependsOn": []
+  }
+}

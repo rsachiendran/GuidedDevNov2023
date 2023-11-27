@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb11a620-fc6b-47c9-9674-fc91c40fa688",
+    "Name": "UsrPerformanceTypeFUI",
+    "ModifiedOnUtc": "\/Date(1701067363000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Performance Type FUI",
+    "DependsOn": []
+  }
+}

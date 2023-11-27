@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8b4d65d0-d463-48d3-9d55-1a0b7957b690",
+    "Name": "UsrGetGoldRatesMAINProcess",
+    "ModifiedOnUtc": "\/Date(1701103879000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get gold rates MAIN process",
+    "DependsOn": []
+  }
+}

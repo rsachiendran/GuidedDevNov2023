@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "62c6aca0-c626-4d5f-9acc-31930e5badd6",
+    "Name": "UsrPerformancesPage",
+    "ModifiedOnUtc": "\/Date(1701067635000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Performances modal page",
+    "DependsOn": []
+  }
+}

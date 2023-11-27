@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Concerts form page" />
+			<Item Name="LocalizableStrings.addRecord_318c9kp_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_3gw5xbs_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_poribj0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_1dttbhk_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ExpansionPanel_mtbwdo8_title.Value" Value="Performances" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_4jcemc9_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_d07tkt3_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_hlbplxk_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ati6fkw_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_6ziqgm9_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_xwkg081_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MenuItem_30d5ukv_caption.Value" Value="Add performances" />
+			<Item Name="LocalizableStrings.MenuItem_i43vehs_caption.Value" Value="Calculate total duration" />
+		</Items>
+	</Group>
+</Resources>
